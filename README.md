@@ -1,7 +1,7 @@
 # Hi I am Yardet
 
 - I am engineer software from Colombia
-- Techstacks:  Python, JavaScript, Java, React, Angular, Node.js, bases de datos relacionales, control de versiones con Git. 
+- Techstacks: Python, JavaScript, Java, React, Angular, Node.js, relational databases, version control with Git
 
 
 ### Github Stas
